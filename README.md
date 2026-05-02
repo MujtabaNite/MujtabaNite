@@ -113,7 +113,16 @@ graph TD
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### **AI, Data & Creative**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
 
 </div>
 
@@ -122,18 +131,11 @@ graph TD
 ## 📊 Performance Metrics
 
 <div align="center">
-
-### **GitHub Contribution Snake**
-![snake gif](https://github.com/Mujtabanite/Mujtabanite/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mujtabanite&theme=tokyonight" height="180" />
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mujtabanite&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=5B9BD5&icon_color=5B9BD5&text_color=c9d1d9&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujtabanite&layout=compact&theme=github_dark&hide_border=true&count_private=true&title_color=5B9BD5&text_color=c9d1d9&bg_color=0d1117" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mujtabanite&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mujtabanite&theme=tokyonight" width="100%" />
 
 </div>
 
@@ -142,7 +144,11 @@ graph TD
 ## 📈 Activity & Insights
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mujtabanite&theme=github-dark-blue&hide_border=true&stroke=5B9BD5&ring=5B9BD5&fire=ef6c35&currStreakLabel=5B9BD5" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mujtabanite&theme=react-dark&hide_border=true&area=true" width="100%" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mujtabanite&theme=react&hide_border=true" />
 </div>
 
 ---
