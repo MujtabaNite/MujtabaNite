@@ -1,38 +1,167 @@
-<h1 align="center">I'm Muhammad Mujtaba</h1>
-<h3 align="center">A passionate Student learning and creating Many Things</h3>
+<div align="center">
 
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+Hope+you+are+fine+✨;⬇️+Scroll+Down+⬇️;To+Know+More+about+Me+!;&center=true&size=30">
-  </a>
-</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a1040,70:0f2a4a,100:0d0d1a&height=220&section=header&text=Muhammad%20Mujtaba&fontSize=52&fontColor=e8e8f8&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20Researcher&descAlignY=60&descSize=17&descColor=8899bb&animation=fadeIn" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ltnitesnake&label=Profile%20views&color=0e75b6&style=flat" alt="ltnitesnake" /> </p>
+<br/>
 
-# 💫 About Me:
-👋 About Me<br>🎮 I'm currently working on a 2D game called "Doc vs Virus", where a heroic doctor battles viruses in a fun, educational twist on action gameplay. It's still early, but I'm loving the process of turning ideas into pixels!<br><br>🤝 I'm looking to collaborate on any game development project big or small. Whether you're prototyping a concept or polishing a near-finished build, I’m all in for creative collabs.<br><br>🧠 I'm looking for help with understanding and applying core game development concepts. From game loops and physics to animations and player feedback , I’m eager to learn from others who’ve been there!<br><br>🌱 I'm currently learning Unity (C#), diving into game mechanics, UI design, and everything that brings a virtual world to life.<br><br>💬 Ask me about:<br><br>Game ideas and storytelling in games<br><br>Learning game dev as a student<br><br>How I'm staying motivated during creative blocks<br><br>My journey building "Doc vs Virus"<br><br>⚡ Fun Fact:<br>When I'm not coding or designing, I'm probably writing reflective pieces or dreaming about what it would’ve been like to live in the time of the Prophet ﷺ. (Yeah, I’m a deep soul with a gamer heart.)
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=5B9BD5&center=true&vCenter=true&width=800&lines=ARCHITECTING+SCALABLE+ECOSYSTEMS+%F0%9F%8F%97%EF%B8%8F;MULTIMODAL+AI+&++CAUSAL+REASONING+%F0%9F%A7%A0;PRODUCTION-GRADE+SYSTEMS+THAT+SHIP+%F0%9F%9A%80;LEADERSHIP+&++SYSTEMS+THINKING+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+</a>
 
+<br/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/mujtaba.saeed.731/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mujtaba._.15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmujtaba-aztec/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TensorSeven) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:silenthussle.solo@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mmujtaba-aztec/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silenthussle.solo@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Mujtabanite&label=Profile+Views&color=1a4a7a&style=for-the-badge)](https://github.com/Mujtabanite)
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ltnitesnake&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ltnitesnake&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ltnitesnake&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ltnitesnake&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ltnitesnake&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ltnitesnake&icon=10&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ `$ whoami`
+
+```python
+"""
+CORE ARCHITECT: Muhammad Mujtaba
+FOCUS: High-throughput Backend Systems & Multimodal AI Research
+"""
+
+class MuhammadMujtaba:
+    def __init__(self):
+        self.stack = {
+            "backend":  ["ASP.NET Core", "C#", "SignalR", "Entity Framework"],
+            "ai_ml":    ["TensorFlow", "PyTorch", "GAT", "Causal Reasoning"],
+            "systems":  ["High-Concurrency (Semaphores)", "Double-Entry Ledger"],
+            "data":     ["T-SQL Stored Procs", "MongoDB", "Distributed Persistence"]
+        }
+        self.current_obsession = "Causal Graph Attention Networks (GAT)"
+        self.engineering_philosophy = "If it isn't thread-safe and audit-trailed, it isn't production."
+
+    def execute_mission(self):
+        return "Bridging the gap between raw research and bulletproof engineering."
+
+print(MuhammadMujtaba().execute_mission())
+```
+
+---
+
+## 🔬 Deep Tech: Multimodal Causal Research
+
+### [Emotion–Cause Pair Extraction (ECPE)](https://github.com/Mujtabanite/Emotion-Cause-Pair-Extraction)
+*Beyond Text-Only Sentiment Analysis*
+
+Most systems fail because they ignore the **Vocal Tone** and **Visual Cues**. My research implements a temporal attention mechanism across three modalities to reason about *why* an emotion occurred, not just *what* it is.
+
+```mermaid
+graph TD
+    subgraph "Modality Fusion Layer"
+    T[Text Input] --> E1[RoBERTa/BERT]
+    A[Audio Input] --> E2[Wav2Vec 2.0]
+    V[Visual Input] --> E3[ViT/ResNet]
+    end
+    
+    E1 & E2 & E3 --> Fusion[Utterance-Level Concatenation]
+    Fusion --> TA[Temporal Attention Mechanism]
+    TA --> DG[Discourse Graph: Nodes=Utterances]
+    DG --> GAT[Graph Attention Network - GAT]
+    GAT --> ECPE[Causal Pair Extraction]
+    
+    style ECPE fill:#1a4a7a,stroke:#5B9BD5,stroke-width:4px
+    style TA fill:#2d1e4a,stroke:#8899bb
+```
+
+---
+
+## 🚀 Engineering: The "Beast" Portfolio
+
+<div align="center">
+
+| 🖨️ High-Concurrency Portal | 🏦 Immutable Banking Ledger |
+| :--- | :--- |
+| **Problem:** Managing physical hardware via Web traffic.<br>**Solution:** Implemented `SemaphoreSlim` for hardware abstraction. | **Problem:** Financial data integrity at scale.<br>**Solution:** Double-entry bookkeeping enforced at schema-level. |
+| ![SignalR](https://img.shields.io/badge/SignalR-Real--time-blue) ![C#](https://img.shields.io/badge/C%23-Concurrency-green) | ![T-SQL](https://img.shields.io/badge/T--SQL-Stored_Procs-red) ![Audit](https://img.shields.io/badge/Audit-Immutable-orange) |
+| [View Repository](https://github.com/Mujtabanite/Stationary-Photocopies-System) | [View Repository](https://github.com/Mujtabanite/Banking-Transcation-SYstem) |
+
+| 🦖 Neuroevolution Engine | 🧠 CNN Digit Recognition |
+| :--- | :--- |
+| **Problem:** Training without gradients.<br>**Solution:** Genetic algorithms with tournament selection. | **Problem:** Real-time canvas inference.<br>**Solution:** ResNet-inspired CNN with data augmentation. |
+| ![Java](https://img.shields.io/badge/Java-Matrix_Math-brown) ![Evolution](https://img.shields.io/badge/AI-Genetic-lightgrey) | ![TF](https://img.shields.io/badge/TensorFlow-CNN-orange) ![Flask](https://img.shields.io/badge/Flask-Inference-black) |
+| [View Repository](https://github.com/Mujtabanite/Dino_Game_ReinforcementLearning_JAVA) | [View Repository](https://github.com/Mujtabanite/HandWritten_Digit_Recognition_WebApp) |
+
+</div>
+
+---
+
+## 🛠️ The War Chest
+
+<div align="center">
+
+### **Languages & Core**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### **AI & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### **Web & Systems**
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Performance Metrics
+
+<div align="center">
+
+### **GitHub Contribution Snake**
+![snake gif](https://github.com/Mujtabanite/Mujtabanite/blob/output/github-contribution-grid-snake.svg)
+
+<br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mujtabanite&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=5B9BD5&icon_color=5B9BD5&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mujtabanite&layout=compact&theme=github_dark&hide_border=true&count_private=true&title_color=5B9BD5&text_color=c9d1d9&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mujtabanite&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" />
+
+</div>
+
+---
+
+## 📈 Activity & Insights
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mujtabanite&theme=github-dark-blue&hide_border=true&stroke=5B9BD5&ring=5B9BD5&fire=ef6c35&currStreakLabel=5B9BD5" />
+</div>
+
+---
+
+## 🌱 Evolution in Progress
+- ⚡ **Aztec Tech:** Engineering the foundation for CS education at scale.
+- 🎮 **Doc vs Virus:** Refining pathfinding and AI in Unity.
+- 📖 **RAG Architectures:** Building contextual memory systems for LLMs.
+
+---
+
+<div align="center">
+
+### 📬 Connect to the Network
+
+[LinkedIn](https://www.linkedin.com/in/mmujtaba-aztec/) • [Direct Mail](mailto:silenthussle.solo@gmail.com)
+
+*"If the code doesn't tell a story, it's just syntax."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a1040,70:0f2a4a,100:0d0d1a&height=120&section=footer" />
+
+</div>
