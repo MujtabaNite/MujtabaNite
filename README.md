@@ -28,7 +28,6 @@ class MuhammadMujtaba:
             "First Author — ICAMI-2026: Multimodal Emotion-Cause Pair Extraction",
             "Co-Author   — Szabist IRC 2025: Stock Exchange Temporal Prediction",
         ]
-        self.currently   = "Closing skill gaps: RAG · FastAPI · React Native · LangChain"
         self.building    = "FEED — Community Food Sharing App (Flutter + .NET 10)"
         self.founded     = "Aztec Tech — Programming Education Startup"
 
@@ -203,20 +202,6 @@ ResNet-inspired CNN achieving **99%+ MNIST accuracy** via residual connections a
 🚀  Co-Founder        — Aztec Tech, EdTech Startup
 ```
 
----
-
-## 🌱 Currently Learning
-
-```
-FastAPI          ████░░░░░░   Starting
-RAG + LangChain  ███░░░░░░░   Starting  
-React Native     ██░░░░░░░░   Starting
-PostgreSQL/Python ████░░░░░░  Starting
-Docker           ███░░░░░░░   Starting
-```
-*This summer is going in hard. Closing the gaps one by one.*
-
----
 
 <div align="center">
 
