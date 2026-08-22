@@ -8,9 +8,9 @@
 <br/>
 
 <!-- PLAYER HUD BADGES -->
-[![Player 1](https://img.shields.io/badge/PLAYER_1-MUHAMMAD_MUJTABA-F5C518?style=for-the-badge&labelColor=1B1B1B&logo=gamepad&logoColor=F5C518)](https://github.com/MujtabaNite)
-[![Class](https://img.shields.io/badge/CLASS-AI_ENGINEER_%7C_GAME_DEV-F5C518?style=for-the-badge&labelColor=1B1B1B&logo=unity&logoColor=F5C518)](https://github.com/MujtabaNite)
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEV-1B1B1B?style=for-the-badge&labelColor=1B1B1B&logo=git&logoColor=F5C518)](https://github.com/MujtabaNite)
+[![Player](https://img.shields.io/badge/MC-MUHAMMAD_MUJTABA-F5C518?style=for-the-badge&labelColor=1B1B1B&logo=gamepad&logoColor=F5C518)](https://github.com/MujtabaNite)
+[![Class](https://img.shields.io/badge/Role-AI_ENGINEER_%7C_GAME_DEV-F5C518?style=for-the-badge&labelColor=1B1B1B&logo=unity&logoColor=F5C518)](https://github.com/MujtabaNite)
+[![Status](https://img.shields.io/badge/STATUS-COMPILING-1B1B1B?style=for-the-badge&labelColor=1B1B1B&logo=git&logoColor=F5C518)](https://github.com/MujtabaNite)
 
 <br/>
 
