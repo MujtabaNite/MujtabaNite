@@ -60,14 +60,14 @@ Playable now:  custom orbital rotation logic, a raycasting-based camera system, 
 
 <br/>
 
-**[2D Shooter](https://github.com/MujtabaNite/2DShooter)**  
+**[2D Shooter](https://github.com/MujtabaNite/2DShooter)**    
 ![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-FF9800?style=flat-square&logo=gamepad&logoColor=white)
 ![Engine](https://img.shields.io/badge/ENGINE-UNITY-F5C518?style=flat-square&labelColor=1B1B1B&logo=unity&logoColor=F5C518)  
 Current build. Full write-up drops once it's further along.
 
 <br/>
 
-**[Dino Neuroevolution AI](https://github.com/MujtabaNite/Dino-Neuroevolution-AI)** 
+**[Dino Neuroevolution AI](https://github.com/MujtabaNite/Dino-Neuroevolution-AI)**    
 ![Status](https://img.shields.io/badge/STATUS-SHIPPED-4CAF50?style=flat-square&logo=python&logoColor=white)
 ![Zero Libs](https://img.shields.io/badge/DEPENDENCIES-ZERO_ML_LIBRARIES-F5C518?style=flat-square&labelColor=1B1B1B&logo=pypi&logoColor=F5C518)  
 No ML libraries: neural network inference and the full genetic algorithm cycle (selection, crossover, mutation) built by hand, evolving 100 agents to master a Chrome Dino–style game from nothing but selection pressure.
@@ -76,7 +76,7 @@ No ML libraries: neural network inference and the full genetic algorithm cycle (
 
 ## ▸ AI / RESEARCH
 
-**[Multimodal Emotion-Cause Pair Extraction](https://github.com/MujtabaNite/Multimodal-ECPE)** 
+**[Multimodal Emotion-Cause Pair Extraction](https://github.com/MujtabaNite/Multimodal-ECPE)**    
 ![Status](https://img.shields.io/badge/STATUS-PRESENTED-2196F3?style=flat-square&logo=scipy&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/TECH-ROBERTA_%7C_WHISPER_%7C_WAV2VEC2-1B1B1B?style=flat-square&logo=pytorch&logoColor=F5C518)  
 Goes past emotion classification to find the *cause* behind an emotion, across text and audio — RoBERTa for text, Whisper for speech-to-text, Wav2Vec2 for acoustic emotion, feeding a linguistic dependency-based cause-extraction module. Full pipeline, Flask interface, Streamlit dashboard for testing.
