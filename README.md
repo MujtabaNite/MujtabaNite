@@ -1,208 +1,152 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Muhammad%20Mujtaba&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20|%20NLP%20%|%20Reinforcement%20Learning%20|%20Backend%20Systems&descAlignY=62&descSize=16&descColor=d0d8f0&animation=fadeIn" />
+<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="👋 Hi, my name is Muhammad Mujtaba" />
+
+<!-- ARCADE TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1200&color=F5C518&center=true&vCenter=true&width=700&lines=%3E+LOADING+PLAYER+PROFILE...;%3E+NLP+%2B+BACKEND+%2B+REINFORCEMENT+LEARNING;%3E+OBJECTIVE%3A+GAME+DEVELOPMENT)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=5B9BD5&center=true&vCenter=true&width=800&lines=Building+AI+systems+from+first+principles;NLP+%26+Reinforcement+Learning+enthusiast;Backend+AI+Engineer+Intern+%40+FlyRank+AI;Research+Assistant+%40+BIIT)](https://git.io/typing-svg)
+<!-- PLAYER HUD BADGES -->
+[![Player 1](https://img.shields.io/badge/PLAYER_1-MUHAMMAD_MUJTABA-F5C518?style=for-the-badge&labelColor=1B1B1B&logo=gamepad&logoColor=F5C518)](https://github.com/MujtabaNite)
+[![Class](https://img.shields.io/badge/CLASS-AI_ENGINEER_%7C_GAME_DEV-F5C518?style=for-the-badge&labelColor=1B1B1B&logo=unity&logoColor=F5C518)](https://github.com/MujtabaNite)
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE_DEV-1B1B1B?style=for-the-badge&labelColor=1B1B1B&logo=git&logoColor=F5C518)](https://github.com/MujtabaNite)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mujtaba-nite)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujtaba.office.mail@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=MujtabaNite&label=Profile+Views&color=1B3A6B&style=for-the-badge)](https://github.com/MujtabaNite)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B1B1B?style=for-the-badge&logo=linkedin&logoColor=F5C518)](https://linkedin.com/in/mujtaba-nite)
+[![Gmail](https://img.shields.io/badge/Email-1B1B1B?style=for-the-badge&logo=gmail&logoColor=F5C518)](mailto:mujtaba.office.mail@gmail.com)
 
 </div>
 
----
+<br/>
 
-## `$ whoami`
+## ▸ ABOUT ME
 
-```python
-class MuhammadMujtaba:
+I'm an AI engineer working across NLP, backend systems, and reinforcement learning, building toward game development. I like knowing why something works, not just that it works; that's why I built a neuroevolution engine with zero ML libraries instead of importing one, and why I'm shipping actual Unity projects instead of just reading about game development.
 
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.education = "BS Computer Science @ BIIT"
-        self.cgpa = "3.93 / 4.00"
+**What I can help with:** backend systems (APIs, databases, authentication, containerized deployment), AI/LLM integration where it genuinely solves a problem, and NLP research and implementation.
 
-        self.current_focus = [
-            "Natural Language Processing",
-            "Reinforcement Learning",
-            "Backend Systems",
-            "Applied AI"
-        ]
+**What I'm working on right now:** a Backend AI Engineering internship at FlyRank AI, research at BIIT, and a 2D shooter game in active development.
 
-        self.currently_working_on = [
-            "Backend AI Engineer Intern @ FlyRank AI",
-            "Research Assistant @ BIIT"
-        ]
+**Outside of work:** chess, learning Japanese, and usually a book in progress.
 
-        self.building = [
-            "FEED — Community Food Sharing Platform"
-        ]
+<br/>
 
-    def mission(self):
-        return "Understand how AI systems actually work, not just how to call them."
-```
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 [Multimodal-ECPE](https://github.com/MujtabaNite/Multimodal-ECPE)
-**Multimodal Emotion-Cause Pair Extraction**
-
-A framework that goes beyond emotion classification to extract the specific cause behind an emotion, across text and audio. Combines RoBERTa for text emotion detection, Whisper for speech-to-text, and Wav2Vec2 for acoustic emotion recognition, feeding into a linguistic dependency-based cause-extraction module. Fully offline, with dual Flask and Streamlit interfaces.
-
-`PyTorch` `RoBERTa` `Wav2Vec2` `Whisper` `Flask` `Streamlit`
-
-</td>
-<td width="50%">
-
-### 🍽️ [FEED — Community Food Sharing](https://github.com/MujtabaNite/Finding-Excellent-Eats-Daily-FEED)
-**Solo Developer** · *In Development*
-
-A four-role (Donor/Receiver/Rider/Admin) food-sharing platform spanning 41 mobile screens, currently in Flutter with a JWT-secured .NET backend. Live GPS tracking and route visualization via OpenStreetMap. Frontend rebuild in React planned as those skills develop.
-
-`Flutter` `.NET 10 WebAPI` `SQL Server` `OpenStreetMap`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🦖 [Chrome Dino Neuroevolution AI](https://github.com/MujtabaNite/Dino_Game_ReinforcementLearning_JAVA)
-**Solo Build**
-
-A neuroevolution engine built entirely from scratch — no external ML libraries — evolving 100 AI-controlled agents simultaneously via genetic algorithms. Neural network inference, matrix operations, crossover, mutation, and tournament selection all implemented manually to understand the mechanics behind evolutionary learning.
-
-`Java` `Processing IDE` `Genetic Algorithms` `Neural Networks`
-
-</td>
-<td width="50%">
-
-### 🖨️ [Stationary-Photocopies-System](https://github.com/MujtabaNite/Stationary-Photocopies-System)
-**Team Lead — 9-Member Team** · *Live at somee.com*
-
-University print management system modeling physical hardware constraints via `SemaphoreSlim(3,3)`. Real-time queue broadcasting via SignalR WebSockets. Evaluated by 50+ students during testing and demonstrations.
-
-`ASP.NET Core` `SignalR` `T-SQL` `EF Core` `Bootstrap 5`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏦 [Banking Transaction System](https://github.com/MujtabaNite/Banking-Transcation-SYstem)
-**Database Systems Project** · *Live on somee.com*
-
-Double-entry bookkeeping enforced at schema level. 100% stored procedure execution — zero inline SQL. Immutable audit trail via T-SQL triggers.
-
-`ASP.NET Core MVC` `T-SQL` `EF Core` `Stored Procedures`
-
-</td>
-<td width="50%">
-
-### ✍️ [Handwritten Digit Recognition](https://github.com/MujtabaNite/HandWritten_Digit_Recognition_WebApp)
-**Live on Vercel**
-
-ResNet-inspired CNN achieving **94%+ test accuracy** via residual connections and data augmentation. Deployed as a live Flask API with real-time HTML5 canvas input.
-
-`TensorFlow` `Keras` `ResNet CNN` `Flask` `Vercel`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
+## ▸ SKILLS
 
 <div align="center">
 
-### 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,cs,java,processing,js,supabase,react,pytorch,sklearn,ubuntu,vue,tensorflow,fastapi,flask,dotnet,unity,postgres,docker,git,anaconda,arch,bash,jest,linux,mysql,obsidian,github&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-5C2D91?style=for-the-badge)
+<br/><br/>
 
-<br/>
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://langchain.com) &nbsp;
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)](https://langchain-ai.github.io/langgraph/) &nbsp;
 
-### ⚙️ Backend & Application Development
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br/>
-
-### 🗄️ Databases
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-<br/>
-
-### 🛠️ Tools & Languages
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+## ▸ GAME DEVELOPMENT
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MujtabaNite&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MujtabaNite&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+**[3D Solar System Model & Simulation](https://github.com/MujtabaNite/SolarSystem)**   
+![Status](https://img.shields.io/badge/STATUS-SHIPPED-4CAF50?style=flat-square&logo=unity&logoColor=white)
+![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS_%7C_MACOS_%7C_WEBGL-1B1B1B?style=flat-square&logo=html5&logoColor=F5C518)
+![Engine](https://img.shields.io/badge/ENGINE-UNITY_6_URP-F5C518?style=flat-square&labelColor=1B1B1B&logo=unity&logoColor=F5C518)  
+Playable now:  custom orbital rotation logic, a raycasting-based camera system, dynamic object spawning, cross-platform builds for Windows, macOS, and WebGL. Built in Unity 6 with the Universal Render Pipeline.  
+**[▶ Play in browser](https://mujtabanite.itch.io/solarsystem-model)**
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MujtabaNite&theme=tokyonight&hide_border=true)
+**[2D Shooter](https://github.com/MujtabaNite/2DShooter)**  
+![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-FF9800?style=flat-square&logo=gamepad&logoColor=white)
+![Engine](https://img.shields.io/badge/ENGINE-UNITY-F5C518?style=flat-square&labelColor=1B1B1B&logo=unity&logoColor=F5C518)  
+Current build. Full write-up drops once it's further along.
 
-</div>
+<br/>
 
+**[Dino Neuroevolution AI](https://github.com/MujtabaNite/Dino-Neuroevolution-AI)** 
+![Status](https://img.shields.io/badge/STATUS-SHIPPED-4CAF50?style=flat-square&logo=python&logoColor=white)
+![Zero Libs](https://img.shields.io/badge/DEPENDENCIES-ZERO_ML_LIBRARIES-F5C518?style=flat-square&labelColor=1B1B1B&logo=pypi&logoColor=F5C518)  
+No ML libraries: neural network inference and the full genetic algorithm cycle (selection, crossover, mutation) built by hand, evolving 100 agents to master a Chrome Dino–style game from nothing but selection pressure.
+
+<br/>
+
+## ▸ AI / RESEARCH
+
+**[Multimodal Emotion-Cause Pair Extraction](https://github.com/MujtabaNite/Multimodal-ECPE)** 
+![Status](https://img.shields.io/badge/STATUS-PRESENTED-2196F3?style=flat-square&logo=scipy&logoColor=white)
+![Tech Stack](https://img.shields.io/badge/TECH-ROBERTA_%7C_WHISPER_%7C_WAV2VEC2-1B1B1B?style=flat-square&logo=pytorch&logoColor=F5C518)  
+Goes past emotion classification to find the *cause* behind an emotion, across text and audio — RoBERTa for text, Whisper for speech-to-text, Wav2Vec2 for acoustic emotion, feeding a linguistic dependency-based cause-extraction module. Full pipeline, Flask interface, Streamlit dashboard for testing.
+
+<br/>
+
+## ▸ BACKEND ENGINEERING
+
+**[FlyRank-Work](https://github.com/MujtabaNite/FlyRank-Work)**  
+![Status](https://img.shields.io/badge/STATUS-PROFESSIONAL-9C27B0?style=flat-square&logo=docker&logoColor=white)
+![Stack](https://img.shields.io/badge/STACK-FASTAPI_%7C_POSTGRES_%7C_DOCKER-1B1B1B?style=flat-square&logo=fastapi&logoColor=F5C518)  
+Internship work at FlyRank AI: REST APIs, PostgreSQL persistence, JWT authentication, Docker containerization, and an LLM-integrated support-ticket endpoint, ending in a multi-tenant widget platform capstone.
+
+<br/>
+
+**[Restaurant Reservation System](https://github.com/MujtabaNite/Resturant_Reservation_System)**  
+![Status](https://img.shields.io/badge/STATUS-SOLO_BUILD-F5C518?style=flat-square&labelColor=1B1B1B&logo=csharp&logoColor=F5C518)  
+Salted-hash authentication with account lockout, full transaction management, and a thread-safe singleton database layer for concurrent access.
+
+<br/>
+
+**[Banking Transaction System](https://github.com/MujtabaNite/Banking-Transcation-SYstem)**  
+![Status](https://img.shields.io/badge/STATUS-SOLO_BUILD-F5C518?style=flat-square&labelColor=1B1B1B&logo=microsoftsqlserver&logoColor=F5C518)  
+Integrity enforced at the database level: zero inline SQL, every transaction through stored procedures, T-SQL triggers protecting the audit trail.
+
+<br/>
+
+**[SQL Management Studio Clone](https://github.com/MujtabaNite/SQL-Management-Studio-Clone)**   
+![Status](https://img.shields.io/badge/STATUS-SOLO_BUILD-F5C518?style=flat-square&labelColor=1B1B1B&logo=openjdk&logoColor=F5C518)  
+A command-line database tool from scratch in Java:  custom query parser, tokenizing and executing SQL-style statements against flat-file storage, role-based auth, JDBC error logging.
+
+<br/>
+
+## ▸ TIMELINE
+
+```mermaid
 ---
-
-## 🏆 Highlights
-
+config:
+  logLevel: 'debug'
+  theme: 'base'
+---
+timeline
+    title Journey So Far
+    2023: Started BS Computer Science (AI) at BIIT
+    2024: Research Assistant, BIIT
+         : Technical Lead, BIIT Programming Society
+    2025: Dino Neuroevolution AI
+         : Restaurant Reservation System
+         : Banking Transaction System
+    2026: Multimodal-ECPE presented at conference
+         : Solar System shipped and deployed
+         : Backend AI Engineer Intern, FlyRank AI
+         : 2D Shooter in development
 ```
-🎓 BS Computer Science  — CGPA 3.93 / 4.00
-🏅 Merit Scholarships   — Semesters 2–6
-💼 Backend AI Engineer  — Intern @ FlyRank AI
-🔬 Research Assistant   — BIIT, AI/ML experimentation & model evaluation
-👥 Team Lead            — 9-Member Development Team
-🎯 Event Organizer      — SQL Query Brawl (70+ Participants)
-🎮 4th Place            — NASCON Game Dev Competition (concept pitch)
-```
 
+<br/>
+
+<!-- FOOTER SECTION -->
 <div align="center">
 
-**"I don't want to just call an API — I want to know what's happening underneath it."**
+*"Loyalty is a two-way street. If I'm asking it from you, you're getting it from me."*  
+ Harvey Specter
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mujtaba-nite)
-[![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujtaba.office.mail@gmail.com)
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-1B1B1B?style=for-the-badge&logo=linkedin&logoColor=F5C518)](https://linkedin.com/in/mujtaba-nite)
+[![Email](https://img.shields.io/badge/Send_a_Mail-1B1B1B?style=for-the-badge&logo=gmail&logoColor=F5C518)](mailto:mujtaba.office.mail@gmail.com)
 
+<br/>
+<div align="center">
+<img src="https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774" alt="Cozy Coding" height="350" width="100%" />
+</div>
 </div>
