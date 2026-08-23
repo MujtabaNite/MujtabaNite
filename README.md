@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="👋 Hi, my name is Muhammad Mujtaba" />
+<img src="header.gif" alt="👋 Hi, my name is Muhammad Mujtaba" />
 
 <!-- ARCADE TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1200&color=F5C518&center=true&vCenter=true&width=700&lines=%3E+LOADING+PLAYER+PROFILE...;%3E+NLP+%2B+BACKEND+%2B+REINFORCEMENT+LEARNING;%3E+OBJECTIVE%3A+GAME+DEVELOPMENT)](https://git.io/typing-svg)
@@ -147,6 +147,6 @@ timeline
 
 <br/>
 <div align="center">
-<img src="https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774" alt="Cozy Coding" height="350" width="100%" />
+<img src="footer.gif" alt="Cozy Coding" height="350" width="100%" />
 </div>
 </div>
